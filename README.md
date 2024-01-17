@@ -6,7 +6,7 @@ Pyrogram based telegram bot which helps to download songs via telegram by using 
 
 ### Deployment
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/riz4d/YTMuzic-bot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lioneruser4/YTMuzic-bot)
 
 
 ## Issues 
