@@ -3,7 +3,7 @@ import os
 
 BOT_TOKEN = ("2138035413:AAFUuaAoCSdauCOyo8eB0kgCsFHbai9IfEY")
     
-    if __name__ == "__main__" :
+  (  if __name__ == "__main__" :
     plugins = dict(
         root="plugins"
     )
